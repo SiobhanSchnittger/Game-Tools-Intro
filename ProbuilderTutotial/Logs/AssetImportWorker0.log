@@ -251,3 +251,11 @@ Received Import Request.
 Start importing Packages/com.unity.probuilder/Content/Icons/Toolbar/HandleAlign_Plane.png using Guid(6d8a0cbf20c07418bbb33ec170d3a000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5bba90a32eaaa6c20e2650a3eb2d0a6') in 0.012959 seconds
   Import took 0.020162 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 316.921872 seconds.
+  path: Assets/Default.mat
+  artifactKey: Guid(894f44de2a5e844e88d6142fbb8a2bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Default.mat using Guid(894f44de2a5e844e88d6142fbb8a2bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8842e19b55c33126717ba61417f80c20') in 0.308163 seconds
+  Import took 0.315891 seconds .
+
